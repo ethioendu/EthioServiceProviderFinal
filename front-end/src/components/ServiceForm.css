@@ -8,7 +8,6 @@ form {
     background-color: #f9f9f9;
   }
   
-  /* Styling form elements */
   form div {
     margin-bottom: 15px;
   }
@@ -30,7 +29,6 @@ form {
     box-sizing: border-box;
   }
   
-  /* Styling the submit button */
   form button {
     display: inline-block;
     width: 100%;
@@ -55,12 +53,10 @@ form {
     color: green;
   }
   
-  /* Error message styling */
   form p.error {
     color: red;
   }
   
-  /* Responsive Design */
   @media (max-width: 768px) {
     form {
       padding: 15px;
