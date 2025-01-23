@@ -44,7 +44,7 @@ const styles = {
   },
 };
 
-const LandingPage = () => {
+const header = () => {
 
   return (
     <div>
@@ -104,4 +104,4 @@ const LandingPage = () => {
   );
 };
 
-export default LandingPage;
+export default header;
